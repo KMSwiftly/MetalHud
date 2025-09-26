@@ -11,7 +11,7 @@
 ![](/Images/WindowEnable.png)
 - Enable Metal Hud
 
-<p align="center">
+<p align="left">
   <img src="/Images/WindowEnable.png" />
 </p>
 

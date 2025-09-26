@@ -10,9 +10,8 @@ efs
 
 # Screenshots
 
-sdf
-![](/Images/WindowEnable.png)
-![](/Images/WindowDisable.png)
+![](/Images/WindowEnable.png) asd
+![](/Images/WindowDisable.png) asdf
 
 # Requirements
 macOS version >= 14.6

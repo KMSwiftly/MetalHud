@@ -10,7 +10,7 @@
 2) Extract the RELEASE-MetalHud.zip
 3) Run MetalHud  
 
-![](/Images/WindowEnable.png)
+![](/Images/Warning.png)
 
 - "If you encounter the message "MetalHud Not Opened" when you run the program, do this"
 - System setting -> Privacy & Security -> "MetalHud" was blocked to protect your Mac -> Open Anyway 

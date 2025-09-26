@@ -8,9 +8,8 @@
 # Usage
 
 
-!["sad"](/Images/WindowEnable.png)
+![](/Images/WindowEnable.png)
 - Enable Metal Hud
-
 
 ![](/Images/WindowDisable.png)
 - Disable Metal Hud

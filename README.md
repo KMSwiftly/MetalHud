@@ -7,7 +7,7 @@
 ##
 
 <p align="center">
-  <img src="/Images/WindowEnable.png" alt="Image 1" width="300"/>
+  <img src="/Images/WindowEnable.png" alt="Image 1" width="100"/>
   <img src="/Images/StatusBarEnable.png" alt="Image 2" width="100"/>
 </p>
 

@@ -5,7 +5,8 @@
 ![](/Images/Hud.png)
 
 ##
-![Window Enable](/Images/WindowEnable.png)  ![StatusBar Enable](/Images/StatusBarEnable.png)  
+
+| ![Window Enable](/Images/WindowEnable.png)  ![StatusBar Enable](/Images/StatusBarEnable.png) |  
 
 ##
 ![Window Disable](/Images/WindowDisable.png)  ![StatusBar Disable](/Images/StatusBarDisable.png)

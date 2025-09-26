@@ -16,7 +16,7 @@
 ![Window Disable](/Images/WindowDisable.png)  ![StatusBar Disable](/Images/StatusBarDisable.png)
 
 ## Requirements
--> Minumum macOS version 14.6
+macOS version >= 14.6
 
 ## Usage
 

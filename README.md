@@ -6,7 +6,7 @@
 
 
 # Usage
-First download "Metal Hud" from - [Link](/MetalHud/releases/tag/1.0)
+First download "Metal Hud" from - [Link](https://github.com/Swiftful/MetalHud/releases/tag/1.0)
 
 
 # Screenshots

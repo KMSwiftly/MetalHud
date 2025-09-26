@@ -5,9 +5,9 @@
 ![](/Images/Hud.png)
 > App View
 
-![](/Images/WindowEnable.png)  ![](/Images/StatusBarEnable.png)  
+![Window Enable](/Images/WindowEnable.png)  ![StatusBar Enable](/Images/StatusBarEnable.png)  
 
-![](/Images/WindowDisable.png)  ![](/Images/StatusBarDisable.png)
+![Window Disable](/Images/WindowDisable.png)  ![StatusBar Enable]](/Images/StatusBarDisable.png)
 
 ## Usage
 

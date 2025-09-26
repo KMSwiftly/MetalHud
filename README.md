@@ -11,17 +11,17 @@
 ##
 
 ![](/Images/Warning.png)
-- "If you encounter the message "MetalHud Not Opened" when you run the program, do this"
-- System setting -> Privacy & Security -> "MetalHud" was blocked to protect your Mac -> Open Anyway 
+"If you encounter the message "MetalHud Not Opened" when you run the program, do this"
+System setting -> Privacy & Security -> "MetalHud" was blocked to protect your Mac -> Open Anyway 
 ##
-
 
 # Screenshots
 ![](/Images/WindowEnable.png)
 ![](/Images/WindowDisable.png)
 
 # Requirements
-macOS version >= 14.6
+- Intel or Apple silicon chip
+- macOS version >= 14.6
 
 ## [License][license]
 Password Generator is licensed, as found in the [LICENSE][license] file.

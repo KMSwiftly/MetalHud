@@ -19,7 +19,6 @@
 # Screenshots
 ![](/Images/WindowEnable.png)
 ![](/Images/WindowDisable.png)
-##
 
 # Requirements
 macOS version >= 14.6

@@ -3,11 +3,10 @@
 🪄 - Metal Hud is a program designed for macOS to display game performance details.
 
 ![](/Images/Hud.png)
-> App View
 
 ![Window Enable](/Images/WindowEnable.png)  ![StatusBar Enable](/Images/StatusBarEnable.png)  
 
-![Window Disable](/Images/WindowDisable.png)  ![StatusBar Enable]](/Images/StatusBarDisable.png)
+![Window Disable](/Images/WindowDisable.png)  ![StatusBar Disable](/Images/StatusBarDisable.png)
 
 ## Usage
 

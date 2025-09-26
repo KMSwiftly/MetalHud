@@ -20,7 +20,7 @@ final class PersistenceController {
         return dir.appendingPathComponent(fileName)
     }
 
-    func save(enabled: Bool) {
+    func save(enabled: Bool) {//
         do {
             let s = enabled ? "1" : "0"
             try s.write(to: fileURL, atomically: true, encoding: .utf8)

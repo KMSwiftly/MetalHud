@@ -25,4 +25,5 @@ System setting -> Privacy & Security -> "MetalHud" was blocked to protect your M
 
 ## [License][license]
 Password Generator is licensed, as found in the [LICENSE][license] file.
+
 [license]: LICENSE

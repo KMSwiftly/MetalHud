@@ -6,15 +6,10 @@
 
 
 # Usage
+efs
 
-
+# Screenshots
 ![](/Images/WindowEnable.png)
-- Enable Metal Hud
-
-<p align="left">
-  <img src="/Images/WindowEnable.png" />
-</p>
-
 ![](/Images/WindowDisable.png)
 - Disable Metal Hud
 

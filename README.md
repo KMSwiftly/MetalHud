@@ -7,13 +7,13 @@
 
 # Usage
 
-![](/Images/WindowEnable.png)
 - Enable Metal Hud
+![](/Images/WindowEnable.png)
 
-![](/Images/WindowDisable.png)
 - Disable Metal Hud
+![](/Images/WindowDisable.png)
 
-## Requirements
+# Requirements
 macOS version >= 14.6
 
 

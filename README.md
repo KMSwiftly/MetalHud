@@ -6,8 +6,11 @@
 
 ##
 
-| ![Window Enable](/Images/WindowEnable.png)  ![StatusBar Enable](/Images/StatusBarEnable.png) |  
-|-----------------------------------------------|----------------------------------------------|
+<p align="center">
+  <img src="/Images/WindowEnable.png" alt="Image 1" width="200"/>
+  <img src="/Images/StatusBarEnable.png" alt="Image 2" width="200"/>
+</p>
+
 
 ##
 ![Window Disable](/Images/WindowDisable.png)  ![StatusBar Disable](/Images/StatusBarDisable.png)

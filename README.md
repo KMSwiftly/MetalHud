@@ -4,14 +4,14 @@
 ![](/Images/MetalHudAppDark.png)
 
 
-## Usage
+# Usage
 
-- Enable Metal Hud
+
 ![](/Images/WindowEnable.png)
+- Enable Metal Hud
 
-- Disable Metal Hud
 ![](/Images/WindowDisable.png)
-
+- Disable Metal Hud
 
 ## Requirements
 macOS version >= 14.6

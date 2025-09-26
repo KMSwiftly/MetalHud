@@ -6,12 +6,13 @@
 
 
 # Usage
-efs
+First download "Metal Hud" from - [Link](/Releases)
+
 
 # Screenshots
+![](/Images/WindowEnable.png)
+![](/Images/WindowDisable.png)
 
-![](/Images/WindowEnable.png) asd
-![](/Images/WindowDisable.png) asdf
 
 # Requirements
 macOS version >= 14.6

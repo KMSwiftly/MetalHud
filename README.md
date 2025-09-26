@@ -11,6 +11,10 @@
 ![](/Images/WindowEnable.png)
 - Enable Metal Hud
 
+<p align="center">
+  <img src="/Images/WindowEnable.png" />
+</p>
+
 ![](/Images/WindowDisable.png)
 - Disable Metal Hud
 

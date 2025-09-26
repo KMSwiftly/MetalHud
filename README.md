@@ -9,9 +9,9 @@
 efs
 
 # Screenshots
+
 ![](/Images/WindowEnable.png)
 ![](/Images/WindowDisable.png)
-- Disable Metal Hud
 
 # Requirements
 macOS version >= 14.6

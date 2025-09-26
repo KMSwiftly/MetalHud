@@ -4,7 +4,9 @@
 
 ![](/Images/Hud.png)
 > App View
-> 
+
+![](/Images/WindowEnable.png)
+
 ## Usage
 
 

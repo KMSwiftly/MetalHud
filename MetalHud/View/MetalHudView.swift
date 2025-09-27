@@ -5,7 +5,7 @@
 import SwiftUI
 
 struct MetalHudViewRepresentable: View {
-    @State private var enabled: Bool = MetalHudManager.shared.persistence.loadEnabled()
+    @State private var enabled: Bool = MetalHudManager.shared.persistence.loadEnabled() ?? true
 
     var body: some View {
         VStack(spacing: 10) {

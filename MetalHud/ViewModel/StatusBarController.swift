@@ -12,14 +12,18 @@ final class StatusBarController: NSObject {
 
     func setupStatusBarMenu() {
         statusItem = NSStatusBar.system.statusItem(withLength: NSStatusItem.variableLength)
-        let enable = MetalHudManager.shared.persistence.loadEnabled()
-        if enable{
-            MetalHudManager.shared.hudController.enable()
-        }else{
-            MetalHudManager.shared.hudController.disable()
+        
+        var enable = MetalHudManager.shared.persistence.loadEnabled()
+        
+        if enable == nil{
+            enable = true
+            MetalHudManager.shared.persistence.save(enabled: enable!)
         }
+        
+        enable! ? MetalHudManager.shared.hudController.enable() : MetalHudManager.shared.hudController.disable()
+        
         if let button = statusItem.button {
-            button.title = "Metal Hud \(enable ? "🟢" : "🔴")"
+            button.title = "Metal Hud \(enable! ? "🟢" : "🔴")"
             button.action = #selector(statusBarClicked(_:))
             button.target = self
         }
@@ -40,9 +44,7 @@ final class StatusBarController: NSObject {
         NSApp.setActivationPolicy(.accessory)
     }
 
-    @objc private func statusBarClicked(_ sender: Any?) {
-        openSettings(nil)
-    }
+    @objc private func statusBarClicked(_ sender: Any?) {}
 
     @objc private func openSettings(_ sender: Any?) {
         if let win = settingsWindow {

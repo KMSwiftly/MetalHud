@@ -5,7 +5,7 @@
 ![](/Images/MetalHudAppDark.png)
 
 # Usage
-1) Download - [RELEASE-MetalHud.zip](https://github.com/Swiftful/MetalHud/releases/tag/1.0)
+1) Download - [RELEASE-MetalHud.zip](https://github.com/KMSwiftly/MetalHud/releases/tag/1.0)
 2) Extract the RELEASE-MetalHud.zip
 3) Run MetalHud  
 ##
